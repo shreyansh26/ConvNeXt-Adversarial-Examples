@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c7EiO59cmVbxdCFZRDn82I-gBi6aTPDN?usp=sharing)
 
-**This project is just a Pytorch implementation of [@stanislavfort's project](https://twitter.com/stanislavfort/status/1481263565998805002?s=20).**
+**This project is a Pytorch implementation of [@stanislavfort's project](https://twitter.com/stanislavfort/status/1481263565998805002?s=20).**
 
 The notebook looks at generating adversarial images to "fool" the ConvNeXt model's image classification capabilities. [ConvNeXt](https://arxiv.org/abs/2201.03545) came out earlier this year from Meta AI.
 
