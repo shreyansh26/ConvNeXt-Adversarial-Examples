@@ -1,4 +1,4 @@
-# Adversarial Example generation for ConvNeXt
+# Adversarial examples generation for ConvNeXt
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c7EiO59cmVbxdCFZRDn82I-gBi6aTPDN?usp=sharing)
 
